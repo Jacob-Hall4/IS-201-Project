@@ -1,0 +1,47 @@
+#top{
+    text-decoration: underline;
+    color: darkblue;
+}
+
+body{
+    background-color:rgb(177, 220, 237);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    margin: 10px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.header {
+    text-align: center;
+    padding: 10px;
+    background-color:rgb(178, 203, 250);
+    color: #fff;
+}
+
+.content {
+    padding: 20px;
+    color:rgb(18, 29, 29)
+}
+
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color:blanchedalmond;
+    color: black;
+}
+
